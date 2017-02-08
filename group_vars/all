@@ -1,5 +1,5 @@
 # Define AWS EC2 parameters required to provision instances
-ec2_keypair: ansible-bh
+ec2_keypair: ansible-fd
 ec2_type: t2.small
 ec2_image: ami-12663b7a
 ec2_region: us-east-1
